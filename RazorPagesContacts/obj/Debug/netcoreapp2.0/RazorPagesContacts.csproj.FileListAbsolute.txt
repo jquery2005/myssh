@@ -8,3 +8,4 @@ E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPages
 E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfo.cs
 E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.dll
 E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.pdb
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.csprojResolveAssemblyReference.cache
