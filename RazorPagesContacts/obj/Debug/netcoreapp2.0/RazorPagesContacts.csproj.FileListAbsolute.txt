@@ -1,0 +1,10 @@
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.deps.json
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.json
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.dev.json
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.dll
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.pdb
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.csproj.CoreCompileInputs.cache
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfoInputs.cache
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfo.cs
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.dll
+E:\CSharp\VS2017\git\myssh\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.pdb
