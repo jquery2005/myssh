@@ -1,0 +1,25 @@
+@*@model OptionsBindSample.Class*@
+@using Microsoft.Extensions.Options;
+@*@inject IOptions<OptionsBindSample.Class> ClassAccesser*@
+@*
+    IOptionsSnapshot 配置更改，不需要重启站点就生效，配置热更新
+*@
+@inject IOptionsSnapshot<OptionsBindSample.Class> ClassAccesser
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+@*<h4>Class No: @Model.ClassNo</h4>
+<h4>Class Desc: @Model.ClassDesc</h4>*@
+<h4>Class No: @ClassAccesser.Value.ClassNo</h4>
+<h4>Class Desc: @ClassAccesser.Value.ClassDesc</h4>
+<h3>Students :</h3>
+<div>
+    @*@foreach (var student in Model.Students)*@
+    @foreach (var student in ClassAccesser.Value.Students)
+    {
+        <span>Name: @student.Name</span>
+        <span>Age: @student.Age</span>
+    }
+</div>
